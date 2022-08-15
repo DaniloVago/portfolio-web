@@ -1,0 +1,43 @@
+h1 {
+    color: green;
+}
+h2 {
+    color:blueviolet;
+}
+
+body {
+    background-color: bisque;
+    padding: 3%;
+}
+
+.meu-nome {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.descricao {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 35%;
+    right: 50%;
+}
+
+#minha-foto {
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+.image-container {
+    height: 300px;
+    position: relative;
+}
+
+ul li:nth-child(odd){
+    background-color: antiquewhite;
+}
+
+div {
+    border: 2px solid green
+}
